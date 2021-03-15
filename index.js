@@ -1,4 +1,10 @@
 // Write your classes here
-class Tree(species) {
+class Tree {
+  constructor(species) {
+    this.species = species;
+  }
   
+  static definition() {
+    return ""
+  }
 }
