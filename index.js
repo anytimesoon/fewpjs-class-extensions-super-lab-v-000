@@ -10,7 +10,7 @@ class Tree {
 }
 
 class Deciduous {
-  constructor(name){
+  constructor(species, name){
     super(species);
     this.name = name;
   }
